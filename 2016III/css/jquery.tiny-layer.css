@@ -1,0 +1,75 @@
+/* set this class to hide layers on pageload */
+        .btn-wrap {
+                margin-left: 65%;
+        }
+        .btn {
+            display: inline-block;
+            position: relative;
+            font-size: 1rem;
+            font-weight: bold;
+            line-height: 1.4;
+            text-decoration: none;
+            border-radius: 3px;
+            border: 0;
+            cursor: pointer;
+            /* Disables the default callout shown when you touch and hold a touch target  */
+            -webkit-touch-callout: none;
+            -ms-touch-action: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+        .btn-default {
+            color: #fff;
+            background: rgba(0, 43, 71, 0);
+			
+        }
+        .btn-default:focus,
+        .btn-default:hover {
+            outline: none;
+            background: rgba(0, 58, 97, 0);
+        }
+.tiny-layer-hide {
+    display: none;
+}
+
+.tiny-layer-item {
+    position: fixed;
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    top: 10%;
+    right: 10%;
+    bottom: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 21, 28, 0.93);
+    z-index: 10000;
+    transition: opacity 0.01s;
+    opacity: 0;
+    border-radius: 5px;
+}
+.tiny-layer-item.is-visible {
+    opacity: 1;
+}
+.tiny-layer-item .layer-item-content {
+    position: relative;
+    border-radius: 3px;
+        width: 100%;
+}
+.tiny-layer-item .layer-item-close {
+    position: fixed;
+    top: 15%;
+    right: 12.5%;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    display: flex;
+    color: #fff;
+    font-size: 25px;
+    background-color: rgba(235, 235, 235, 0);
+    border: 0;
+    border-radius: 3px;
+}

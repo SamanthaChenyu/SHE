@@ -1,0 +1,1443 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-tw">
+
+  <head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+<link rel="shortcut icon" href="http://www.cw.com.tw/assets_new/img/favicon.ico" type="image/x-icon" />
+<!--<meta name="google-site-verification" content="syaeHx9C8BQwUlqMH94p4MRkYRkVekLSgdxxCxdyaok" />-->
+<meta property="og:title" content="SHE時代論壇II　感動再SHE - 天下雜誌">
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://topic.cw.com.tw/event/she_forum/ticket.html"/>
+<meta property="og:image" content="http://cw1.tw/CW/images/article/C1464229650663.jpg" />
+<meta content="SHE時代論壇II 感動再SHE - 天下雜誌" property="og:site_name"/>
+<meta content="zh_TW" property="og:locale">
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<!-- Custom Fonts -->
+
+
+
+
+
+      <!-- PAGE TITLE -->
+<title>SHE時代論壇II　感動再SHE - 天下雜誌</title> 
+
+<meta name="keywords" content="SHE,姊的時代,她,女力,跨界,天下雜誌" /> 
+<meta name="description" content="姊的時代，改變世界的女性價值，姊不再懷疑，選擇相信自己，挺身而進！2016新SHE時代，台灣女性的進步超乎想像，即使仍在顛簸的道路上，推動美好改變的力量正在實現。"/>     
+
+      <!-- META-DATA -->
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1" />
+
+
+
+      <!-- FAVORITE AND TOUCH ICONS -->
+      <link href="./2016年CWEF天下經濟論壇 冬季場_files/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<!-- Speaker Slider css-->
+
+  <script src="assets/plain/js/jquery.easing.js"></script>    
+<script src="assets/plain/js/jquery-1.js"></script>
+    <script src="assets/plain/js/tms-0.js"></script>
+    
+      <link rel="icon" href="assets/img/favicons/favicon.ico" />
+
+      <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon.png" />
+      <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon-76x76.png" sizes="76x76" />
+      <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon-120x120.png" sizes="120x120" />
+      <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon-152x152.png" sizes="152x152" />
+
+      <!-- BOOTSTRAP GRID SYSTEM -->
+      <link rel="stylesheet" href="assets/plain/css/bootstrap.gs.css" type="text/css" />
+
+      <!-- JQUERY PLUG-IN's CSS -->
+      <link rel="stylesheet" href="assets/plain/css/jquery.uniform.css" type="text/css" />
+      <link rel="stylesheet" href="assets/plain/css/jquery.owl.carousel.css" type="text/css" />
+      <link rel="stylesheet" href="assets/plain/css/jquery.leaflet.popup.css" type="text/css" />
+
+      <!-- FONTS AND ICONS -->
+      <link rel="stylesheet" href="assets/plain/fonts/lato/lato.css" type="text/css" />
+      <link rel="stylesheet" href="assets/plain/fonts/oswald/oswald.css" type="text/css" />
+
+      <link rel="stylesheet" href="assets/plain/fonts/ionicons/ionicons.css" type="text/css" />
+      <link rel="stylesheet" href="assets/plain/fonts/fontawesome/fontawesome.css" type="text/css" />
+
+      <!-- COLOR SCHEME -->
+      <link rel="stylesheet" href="assets/plain/css/themes/red.css" type="text/css" id="theme-link" />
+      <link rel="stylesheet" href="assets/plain/css/layouts/light.css" type="text/css" id="layout-link" />
+
+      <!-- TEMPLATE STYLES -->
+      <link rel="stylesheet" href="assets/plain/css/forms.css" type="text/css" />
+      <link rel="stylesheet" href="assets/plain/css/template.css" type="text/css" />
+
+      <!--[if lt IE 10]>
+          <link rel="stylesheet" href="assets/plain/css/ie.css" type="text/css" />
+      <![endif]-->
+
+      <!-- CUSTOM STYLESHEET :: EDIT THIS STYLESHEET TO TASTE -->
+      <link rel="stylesheet" href="assets/plain/css/custom.css" type="text/css" />
+      <script>
+
+  		 (function (i, s, o, g, r, a, m) {
+  		
+  		  i['GoogleAnalyticsObject'] = r;
+  		
+  		  i[r] = i[r] || function () {
+  		
+  		   (i[r].q = i[r].q || []).push(arguments)
+  		
+  		  }, i[r].l = 1 * new Date();
+  		
+  		  a = s.createElement(o),
+  		
+  		  m = s.getElementsByTagName(o)[0];
+  		
+  		  a.async = 1;
+  		
+  		  a.src = g;
+  		
+  		  m.parentNode.insertBefore(a, m)
+  		
+  		 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  		
+  		 ga('create', 'UA-1198057-9', 'auto');//CW GA.
+  		
+  		 ga('create', 'UA-1198057-166', 'auto' , {'name': 'newTracker'});//AD GA.
+  		
+  		 ga('send', 'pageview');
+  		
+  		 ga('newTracker.send', 'pageview'); // Send page view for new tracker.
+      </script>
+      <script type="text/javascript">
+          (function(){
+			  var e={"mid":9139,"pid":"landing"};
+			  var f='undefined';
+			  var g="http://";
+			  var h="https://";
+			  var i="//";
+			  var j=g;
+			  if(document.location.href.indexOf(g)!=-1){
+					j=i;
+			  }else if(document.location.href.indexOf(h)!=-1){
+				  	j=i;
+			  }
+			  
+			  function l(v){
+				  if(v=="")
+				  		return false;
+						
+				  return(eval("typeof "+v)!=f)
+			  }
+			  
+			  function m(a){
+				  var s=document.createElement('script');
+				  s.setAttribute('type','text/javascript');
+				  s.setAttribute('src',a);
+				  return s;
+			  }
+			  
+			  function n(a){
+				  var b=document.getElementsByTagName('head')[0];
+				  if(b)b.appendChild(m(a));
+				  else document.body.appendChild(m(a))}
+				  
+			  function o(a,b){
+				  var c=setInterval(function(){
+					  if(l(a)){
+						  clearInterval(c);
+						  b()
+					  }},50)
+			  }
+			  
+			  function p(a,b,c,d){
+				  if(l(b)==false){
+					  n(a);
+					  o(b,function(){
+						  if(c)c();
+						  if(d)d()
+					  })
+			 	  }else{
+					  if(d)d()
+				  }
+			 }
+			 
+			 var k=j+"rec.scupio.com/recweb/js/rec.js";
+			 p(k,"scupioec",null,function(){self.scupioec.call(e)})})();
+      </script>
+      <script type="text/javascript"> var _bwp=780; var _bwpid='landing'; </script>
+      <script type="text/javascript" src="//adsense.scupio.com/conv/js/conv.js"></script>
+  
+  <!--天下GA code start -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1198057-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--天下GA code end-->
+  
+  
+  
+
+  </head>
+
+  <body data-spy="scroll">
+  	
+    <!--天下alexa code start-->
+		<script type="text/javascript">
+        
+        _atrk_opts = { atrk_acct:"MUvYh1aon800iC", domain:"cw.com.tw",dynamic: true};
+        
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = 
+        
+        "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = 
+        
+        document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+        
+        </script>
+        
+        <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=MUvYh1aon800iC" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!--天下alexa code end-->
+        <!--天下Comscode code start-->
+		<script>
+        
+          var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "12333885" });
+        
+          (function() {
+        
+           var s = document.createElement("script"), 
+        
+           el = document.getElementsByTagName("script")[0]; s.async = true;
+        
+           s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + 
+        
+        
+        
+        ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();
+        
+       </script>
+       <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=12333885&cv=2.0&cj=1" /></noscript>
+       <!--天下Comscode code end-->
+
+      <!-- Header -->
+      <header class="b-header b-header__float b-header__transparent" id="header">
+          <div class="b-header_inner container">
+              <div class="row">
+
+                  <div class="col-xs-6 col-sm-6 col-md-2 col-lg-3">
+
+                      <!-- Designed text label like logotype -->
+                      <!--a href="/" class="b-header_logo b-header_logo__text"><small class="m-colorized">e</small>Ventual&nbsp;<span class="m-colorized">.</span></a-->
+
+                      <!-- Picture like logotype -->
+                      <a href="#" class="b-header_logo b-header_logo__pic">
+                          <img src="assets/img/logo_dark.png" title="Eventual" alt="Dark" width="126" height="42" class="m-transition" />
+                          <img src="assets/img/logo_light.png" title="Eventual" alt="Light" width="126"  height="42" class="m-transition" />
+                      </a>
+
+                  </div>
+
+                  <div class="col-xs-6 col-sm-6 col-md-10 col-lg-9">
+
+                      <nav class="b-header_nav m-transition js-scroll-spy">
+                          <!--<a href="#speakers">講者</a>-->
+                          <a href="#schedule">論壇議程</a>
+                          <a href="#speaker">講者介紹</a> 
+                          <a href="#overview">訂票資訊</a>
+                                                  
+                      </nav>
+
+                      <span class="b-header_nav_toggle m-transition hidden-md hidden-lg i-icon i-ion-navicon-round js-nav"></span>
+
+                  </div>
+
+              </div>
+          </div>
+      </header>
+      <!-- Header end -->
+           <div class="fixed-button">
+          <div>
+          	<a href="http://bit.ly/1TVtFTY
+" target="_blank" class="e-btn e-btn_outline_white e-btn_md e-btn_smooth ticket" data-label="立即購票"><span>立即購票</span></a>
+          	<a href="http://bit.ly/1TwSkDS" class="e-btn e-btn_outline_white e-btn_md e-btn_smooth ticket" target="_blank" data-label="訂戶購票優惠"><span>訂戶購票優惠</span></a>
+           
+            <div style="display: none;">         <a href="http://www.cwbook.com.tw/inShop/InShopAction.shtml?inShopSerno=1585&amp;utm_source=CW-Subscribe&amp;utm_medium=Banner&amp;utm_campaign=2016she" class="e-btn e-btn_outline_white e-btn_md e-btn_smooth ticket" target="_blank" data-label="SHE時代訂閱優惠"><span>SHE時代訂閱優惠</span></a></div>
+                                                          </div>
+          </div>
+  </div>
+      <!-- Intro section -->
+      <section class="b-intro b-intro__background b-section" id="intro">
+
+          <div class="b-intro_wrapper">
+              <div class="b-intro_content">
+
+                  <div class="b-intro_container container">
+
+                      <header class="b-intro_header">
+                          <!--<h1><br><br></h1>-->
+                      </header>
+                      <div class="row">
+                          <div class="col-md-6 col-sm-12">
+                          	<br><img src="assets/img/visual.png" />
+                          </div>
+                          <div class="col-md-6 col-sm-12">
+                      		<p><span style="font-family:Microsoft JhengHei;"><font color="#000"><strong><font size="5">─ 大膽越界 Dare or Not ─────</font></strong></font><br><br>
+                      		不分區域、不分國界，全世界都刮起一股芬芳的「姊旋風」<br>
+                      		姊，無關年齡、身分，無關地位、職業，
+                            只要能創造改變、引領風潮，你就是姊！<br><br>
+                      		這是「她」的世代，也是屬於「妳」的時代<br>
+                      		姊的時代，改變世界的女性價值，
+                            姊不再懷疑，選擇相信自己，挺身而進<br><br>
+                            2016新SHE時代，台灣女性的進步超乎想像，<br>
+                            即使仍在顛簸的道路上，推動美好改變的力量正在實現。<br><br><br></span>
+                            <font color="#000"><strong><font size="4">6月21日，SHE時代感動再續，<br>邀您與我們一同”大膽越界“。</font></strong></font><br>
+                            </p>
+                          </div>
+							
+                          <div class="b-booking_btn">
+                          
+                      	</div>
+                      
+
+
+                  </div>
+
+              </div>
+          </div>
+
+      </div></section>
+      <!-- Intro section end -->
+
+
+
+	  <!-- Speakers section -->
+      <!--<section class="b-speakers b-section" id="speakers">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>SPEAKERS／講者</h2>
+                  <p>女力崛起，已成為2016年關鍵詞之一<br>身為女性，該如何參與時代，主導”她未來”，創造”她經濟”，由她們來告訴妳！</p>
+              </header>
+
+              <div class="b-speakers_list row">
+
+                  <div class="b-speakers_cell col-xs-12 col-sm-6 col-md-3">
+
+                      <div class="b-speakers_view">
+
+                          <img class="b-speakers_view_pic" src="http://placehold.it/280x280.jpg/17161c/999999" alt="Sandra Doe" width="140" height="140" />
+
+                          <h3>桑德伯格<span>Facebook營運長</span></h3>
+                          <p>測試描述測試描述測試描述測試描述測試描述測試描述測試描述測試描述</p>
+
+                         
+
+                      </div>
+
+                  </div>
+
+                  <div class="b-speakers_cell col-xs-12 col-sm-6 col-md-3">
+
+                      <div class="b-speakers_view">
+
+                          <img class="b-speakers_view_pic" src="http://placehold.it/280x280.jpg/17161c/999999" alt="Sandra Doe" width="140" height="140" />
+
+                          <h3>陳菊<span >高雄市市長</span></h3>
+                          <p>測試描述測試描述測試描述測試描述測試描述測試描述測試描述測試描述</p>
+
+                          
+
+                      </div>
+
+                  </div>
+
+                  <div class="b-speakers_cell col-xs-12 col-sm-6 col-md-3">
+
+                      <div class="b-speakers_view">
+
+                          <img class="b-speakers_view_pic" src="http://placehold.it/280x280.jpg/17161c/999999" alt="Sandra Doe" width="140" height="140" />
+
+                          <h3>張齊娥<span>悦榕集團董事會主席</span></h3>
+                          <p>測試描述測試描述測試描述測試描述測試描述測試描述測試描述測試描述</p>
+
+                          
+
+                      </div>
+
+                  </div>
+
+                  <div class="b-speakers_cell col-xs-12 col-sm-6 col-md-3">
+
+                      <div class="b-speakers_view">
+
+                          <img class="b-speakers_view_pic" src="http://placehold.it/280x280.jpg/17161c/999999" alt="Sandra Doe" width="140" height="140" />
+
+                          <h3>董明珠<span>珠海格力電器董事長</span></h3>
+                          <p>測試描述測試描述測試描述測試描述測試描述測試描述測試描述測試描述</p>
+
+                          
+
+                      </div>
+
+                  </div>
+
+              </div>
+
+          </div>
+      </section>-->
+      <!-- Speakers section end -->
+      
+      
+      
+      <!-- Schedule section -->
+      <section class="b-schedule b-section" id="schedule">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>SCHEDULE／論壇議程</h2>
+                  <p>2016天下SHE時代論壇</p>
+                  <p>
+                      時間：<strong>2016年6月21日 (二) 17:30~21:00</strong>
+                      <br>（17:00開放入場）<br><br>
+                      地點：<strong>頂鮮101</strong><br>(台北市信義區信義路五段7號86樓)
+                  </p>
+              </header>
+
+              <!-- Download block -->
+              <!--<div class="b-schedule_download">
+
+                  <div class="b-schedule_download_frame">
+
+                      <a href="#" class="b-schedule_download_btn i-icon i-ion-archive" data-target="_blank">
+                          下載會議議程 <small>pdf,&nbsp;116&nbsp;Kb</small>
+                      </a>
+
+                      <div class="e-frame e-frame__xs e-frame__top"></div>
+                      <div class="e-frame e-frame__xs e-frame__bottom"></div>
+
+                  </div>
+
+              </div>-->
+              <!-- Download block end -->
+
+              <div class="b-schedule_view row js-tabs">
+
+                  <div class="col-xs-12 col-md-4 col-lg-3">
+
+                      <div class="b-schedule_tabs b-schedule_tabs__offset js-tabs-toggle">
+
+                          <a href="#schedule-day-1" class="b-schedule_tabs_btn current">
+                              <strong>上半場</strong>
+                          </a>
+
+                          <!--<a href="#schedule-day-2" class="b-schedule_tabs_btn">
+                              <strong>下半場</strong>
+                          </a>
+
+                          <a href="#schedule-day-3" class="b-schedule_tabs_btn">
+                              <strong>特別場</strong>
+                          </a>-->
+
+                      </div>
+
+                  </div>
+
+                  <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+
+                      <div class="b-schedule_device">
+                          <div class="b-schedule_device_screen">
+
+                              <div class="js-tabs-wrapper">
+
+                                  <!-- Schedule: 1st day -->
+                                  <div class="js-tabs-page" id="schedule-day-1">
+
+                                      <div class="b-schedule_day js-tabs">
+
+                                          <div class="b-schedule_day_nav js-tabs-toggle">
+                                              <a href="#schedule-day-1-place-1" class="current"></a>
+                                              <!--<p>2016年，世界迎來「她的時代」。<br>每個角落，在上位在基層，在政府在民間，在不同產業，都有女性發揮影響力。<br>她們同理慈悲、韌性堅強、智慧善處、敢於挑戰與夢想，在變動中，<br>挺身而出、創造改變。看看女性如何運用變革領導力，挺身而進？</p>-->
+                                          </div>
+
+           <img src="assets/img/timetitle.png" width="656" height="27" alt="Title">                              
+<div class="js-tabs-wrapper">
+
+                      <div class="js-tabs-page visible" id="schedule-day-1-place-1">
+
+                                                  <!-- Schedule: 1st day, 1st place -->
+                                              <br>    <div class="b-schedule_timeLine">
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+<div class="b-schedule_speech_header_dummy i-icon i-ion-android-microphone"></div>
+                                                              
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">17:30-17:40</time>
+　<br><cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">吳迎春／《天下雜誌》社長</cite>
+<h3 class="b-schedule_speech_toggle">【天下SHE時代論壇──感動再SHE引言】</h3>
+                                                              <!--div class="b-schedule_speech_arrow">
+                                                                  <div class="e-frame e-frame__top"></div>
+                                                                  <div class="e-frame e-frame__bottom"></div>
+                                                              </div-->
+
+                                                          </header>
+
+                                                          <!--<div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字</p>
+
+                                                          </div>-->
+
+                                                      </article>
+                                                      
+                                                    <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+<div class="b-schedule_speech_header_dummy i-icon i-ion-person"></div>
+                                                              
+                                                                  <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">17:40-18:20</time><br><cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">周　憶／IBM大中華區副總裁 </cite>
+                                                                 
+                                                                
+                                                                <!--<div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字測試描述文字測試描述文字測試描述文字測試描述文字</p>
+
+                                                          </div>-->
+                                                             
+
+                                                              <h3 class="b-schedule_speech_toggle">【專題演講】姊的時代──大膽越界，我的品牌夢</h3>
+
+                                                          </header>
+
+                                                          <!--<div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字測試描述文字測試描述文字測試描述文字測試描述文字</p>
+
+                                                          </div>-->
+
+                                                      </article>
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">18:20-19:00</time><br><cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">李紀珠／台灣金控董事長</cite>
+                                                              
+
+                                                              <h3 class="b-schedule_speech_toggle">【專題演講】姊的時代──大膽越界，挺身而進</h3>
+
+                                                        </header>
+
+                                                          <!--<div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字測試描述文字測試描述文字測試描述文字測試描述文字</p>
+
+                                                          </div>-->
+
+                                                    </article>
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              <div class="b-schedule_speech_header_dummy i-icon i-ion-chatbubbles"></div>
+                                                              <!--<img class="b-schedule_speech_header_pic" src="http://placehold.it/52x52.jpg/17161c/999999" alt="" width="52" height="52" />-->
+
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">18:40-19:00</time><br><cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">對談時間 (20 min)</cite><br>
+                                                              <cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">主持人：《天下雜誌》副總編輯</cite>
+
+                                               <h3 class="b-schedule_speech_toggle js-spoiler-toggle">【專題演講I】SHE HOPE──大膽越界，She領導she勢力</h3>
+
+                                                          </header>
+
+                                                          
+
+                                                      </article>
+
+                                                       <!--<article class="b-schedule_speech">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              <div class="b-schedule_speech_header_dummy i-icon i-ion-coffee"></div>
+
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">15:15-15:30</time>
+                                                              <h3 class="b-schedule_speech_toggle">【COFFEE BREAK】交流時間</h3>
+
+                                                          </header>
+
+                                                      </article>-->
+
+                                                      
+                                                      <article class="b-schedule_speech js-spoiler"> 
+                                                      <header class="b-schedule_speech_header"><div class="b-schedule_speech_header_dummy i-icon i-ion-coffee"></div>
+                                                      <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">19:00-19:20</time>
+                                                      <h3 class="b-schedule_speech_toggle">【交誼時間】</h3></div> </div> </div>
+                                                      </header>
+</article>
+
+
+
+<!-- Schedule: 1st day, 1st place end --> <!-- Schedule: 1st day end -->
+ <img src="assets/img/timetitle2.png" width="656" height="27" alt="Title">
+ 
+ <div class="js-tabs-wrapper">
+
+                      <div class="js-tabs-page visible" id="schedule-day-1-place-1">
+
+                                                  <!-- Schedule: 1st day, 1st place -->
+                                              <br>    <div class="b-schedule_timeLine">
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+<div class="b-schedule_speech_header_dummy i-icon i-ion-coffee"></div>
+                                                             
+                                                              
+                                                              <br><time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">19:20-21:00</time>
+　<br><strong>晚宴時間</strong></cite><br>
+
+<br><time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">20:30-21:00</time>
+<br><strong>音樂表演</strong></cite><br>
+
+<br><time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">21:00-</time>
+　<br><h3 class="b-schedule_speech_toggle">圓滿落幕</h3></cite><p><br><br><br>*主辦單位保留講者及議程更動權利</p>
+                                                              <!--div class="b-schedule_speech_arrow">
+                                                                  <div class="e-frame e-frame__top"></div>
+                                                                  <div class="e-frame e-frame__bottom"></div>
+                                                              </div-->
+
+                                                          </header>
+
+                                                          <!--<div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字</p>
+
+                                                          </div>-->
+
+                                                      </article>
+                                 
+                                  <!-- Schedule: 2nd day -->
+                                  <div class="js-tabs-page" id="schedule-day-2">
+
+                                      <div class="b-schedule_day js-tabs">
+
+                                          <div class="b-schedule_day_nav js-tabs-toggle">
+                                              <a href="#schedule-day-2-place-1" class="current">下半場：她的影響力──推動改變的美好力量</a>
+                                              <p>全球女力崛起，除了變革領導，他們還有哪些美好特質？<br>台灣又有哪些企業，運用女性美好的力量，推動社會正向的改變？<br></p>
+                                          </div>
+
+                                          <div class="js-tabs-wrapper">
+
+                                              <div class="js-tabs-page" id="schedule-day-2-place-1">
+
+                                                  <!-- Schedule: 2nd day, 1st place -->
+                                                  <div class="b-schedule_timeLine">
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              <img class="b-schedule_speech_header_pic" src="http://placehold.it/52x52.jpg/17161c/999999" alt="John Doe" width="52" height="52" />
+
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">15:20-16:20</time>
+                                                              <cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">台新銀行總經理</cite>
+
+                                                              <h3 class="b-schedule_speech_toggle js-spoiler-toggle">【專題演講II：女性影響力大調查】</h3>
+
+                                                          </header>
+
+                                                          <div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字測試描述文字測試描述文字測試描述文字測試描述文字</p>
+
+                                                          </div>
+
+                                                      </article>
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              <img class="b-schedule_speech_header_pic" src="http://placehold.it/52x52.jpg/17161c/999999" alt="Michael Doe" width="52" height="52" />
+
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">16:15-16:30</time>
+                                                              <cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">洪蘭／知名台灣科學家</cite>
+
+                                                              <h3 class="b-schedule_speech_toggle js-spoiler-toggle">【專題演講III：從細微心理學與腦神經科學揭開女性決策的秘密】</h3>
+
+                                                          </header>
+
+                                                          <div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字</p>
+
+                                                          </div>
+
+                                                      </article>
+													  <p><br><br><br>*以上講者皆為暫定，主辦單位包有調整議程的權利</p>
+                                                      
+
+                                                    
+
+                                                      
+
+                                                  </div>
+                                                  <!-- Schedule: 2nd day, 1st place end -->
+
+                                              </div>
+
+                                              
+
+                                          </div>
+
+                                      </div>
+
+                                  </div>
+                                  <!-- Schedule: 2nd day end -->
+
+                                  <!-- Schedule: 3rd day -->
+                                  <div class="js-tabs-page" id="schedule-day-3">
+                                  	<div class="b-schedule_day js-tabs">
+                                  	 <div class="b-schedule_day_nav js-tabs-toggle">
+                                        <a href="#schedule-day-2-place-1" class="current">特別場：美力無限</a>
+                                        
+                                     </div>
+<div class="js-tabs-wrapper">
+
+                                              <div class="js-tabs-page" id="schedule-day-2-place-1">
+
+                                                  <!-- Schedule: 2nd day, 1st place -->
+                                                  <div class="b-schedule_timeLine">
+
+                                                      <article class="b-schedule_speech js-spoiler">
+
+                                                          <header class="b-schedule_speech_header">
+
+                                                              <img class="b-schedule_speech_header_pic" src="http://placehold.it/52x52.jpg/17161c/999999" alt="John Doe" width="52" height="52" />
+
+                                                              <time class="b-schedule_speech_header_time i-icon i-ion-ios-alarm-outline" datetime="2016-03-25">16:45-18:00</time>
+                                                              <cite class="b-schedule_speech_header_name i-icon i-ion-ios-mic-outline">Hearts On Fire CEO</cite>
+                                                              
+
+                                                              <h3 class="b-schedule_speech_toggle js-spoiler-toggle">【美力無限】</h3>
+
+                                                          </header>
+
+                                                          <div class="b-schedule_speech_announcement js-spoiler-text">
+
+                                                              <p>測試描述文字</p>
+
+                                                          </div>
+
+                                                      </article>
+
+                                                      
+                                                      <p><br><br><br>*以上講者皆為暫定，主辦單位包有調整議程的權利</p>
+
+                                                      
+
+                                                    
+
+                                                      
+
+                                                  </div>
+                                                  <!-- Schedule: 3rd day, 1st place end -->
+
+                                              </div>
+									 </div>
+                                  </div>
+                                  <!-- Schedule: 3rd day end -->
+
+                              </div>
+
+                          </div>
+                      </div>
+
+                  </div>
+
+              </div>
+
+          </div>
+      </section>
+      <!-- Schedule section end -->
+      
+      
+      <!-- Counters section -->
+      <!--section class="b-counters b-section b-section__background" id="counters">
+          <div class="b-section__background_overlay">
+
+              <div class="b-section_container container">
+
+                  <div class="b-counters_row row">
+
+                      <div class="col-xs-6 col-sm-6 col-md-3">
+
+                          <div class="b-counters_item">
+
+                              <div class="b-counters_item_digits">16</div>
+
+                              <h3>Speakers</h3>
+                              <p>The best experts will perform for you</p>
+
+                          </div>
+
+                      </div>
+
+                      <div class="col-xs-6 col-sm-6 col-md-3">
+
+                          <div class="b-counters_item">
+
+                              <div class="b-counters_item_digits">159</div>
+
+                              <h3>Hours</h3>
+                              <p>The most productive week-end</p>
+
+                          </div>
+
+                      </div>
+
+                      <div class="col-xs-6 col-sm-6 col-md-3">
+
+                          <div class="b-counters_item">
+
+                              <div class="b-counters_item_digits">20</div>
+
+                              <h3>Technologies</h3>
+                              <p>The leading sectors of the economy</p>
+
+                          </div>
+
+                      </div>
+
+                      <div class="col-xs-6 col-sm-6 col-md-3">
+
+                          <div class="b-counters_item">
+
+                              <div class="b-counters_item_digits">3</div>
+
+                              <h3>Auditoriums</h3>
+                              <p>For a comfortable placement</p>
+
+                          </div>
+
+                      </div>
+
+                  </div>
+
+              </div>
+
+          </div>
+      </section-->
+      <!-- Counters end -->
+<section class="b-faq b-section" id="speaker">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>SPEAKER / 講者介紹</h2>
+                  
+              </header>
+
+    
+          <div class="b-section_container container">
+
+
+              <div class="row">
+                  <div class="col-xs-12 col-lg-8">
+
+                      <!-- Device -->
+                      
+
+                          <div class="b-faq_device_screen">
+
+                              <div class="b-faq_slider">
+                                  <div class="b-slider" data-arrows="false" data-control="true" data-auto="false" data-interval="8">
+                                      <div class="b-slider_inner">
+
+                                          <div class="b-faq_slider_item">
+
+                                              <!-- Question -->
+                                              
+
+                                                  <div class="b-faq_question_wrapper">
+                                                      <div class="b-faq_question_wrapper_inner">
+
+            <h3><div style="text-align:left;">　周憶 ── IBM大中華區副總裁暨行銷長<br><br></div></h3>                                              <article class="b-wysiwyg">
+<div class="boxes">
+  <div class="grid_4">
+     <figure>
+      <div><img src="assets/img/IMG_2762.JPG" width="300" height="250" alt=""></div>
+      <figcaption>
+<div style="text-align:justify;">
+周憶負責IBM大中華區的市場行銷、品牌和公眾關係、數位行銷、大學合作及公司策略轉型等業務。她在行銷及品牌相關領域的影響力及表現，使她多次獲得「商界木蘭」、「中國最值得矚目女性」「十大行銷標誌人物」獎項的肯定。</div>
+      </figcaption>
+     </figure>
+    </div>
+
+                                                              
+
+                                                          </article>
+
+                                                      </div>
+                                                  </div>
+
+                                              
+                                              <!-- Question end -->
+
+                                          </div>
+
+                                          <div class="b-faq_slider_item">
+
+                                              <!-- Question -->
+                                              <div class="b-faq_question">
+
+                                                  <div class="b-faq_question_wrapper">
+                                                      <div class="b-faq_question_wrapper_inner">
+
+                                                          <article class="b-wysiwyg">
+
+                                                           
+
+                                                          </article>
+
+                                                      </div></div></div></div></div></div></div></div></div> </div></div></section>
+                                              <!-- Question end -->
+
+
+                               
+     
+     
+
+      <!-- Overview section -->
+      <section class="b-overview b-section js-tabs" id="overview">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>ADMISSION／訂票資訊</h2>
+                  
+              </header>
+
+              <!-- First block -->
+              <div class="b-overview_section row">
+
+                  <div class="col-xs-12 col-md-5">
+
+                      <article class="b-overview_article">
+
+                          <header class="b-overview_header">
+
+                              <div class="b-overview_header_cell">
+
+                                  <div class="b-overview_header_icon i-icon i-ion-mic-a">
+                                      <div class="e-frame e-frame__sm e-frame__top"></div>
+                                      <div class="e-frame e-frame__sm e-frame__bottom"></div>
+                                  </div>
+
+                              </div>
+
+                              <div class="b-overview_header_cell">
+
+                                  <h3>ADMISSION／訂票資訊</h3>
+
+                              </div>
+
+                          </header>
+
+                          <p><strong >2016年6月21日 (二) 17:30~21:00</strong><br>
+                          （17:00開放入場）<br><br><strong >頂鮮101</strong><br>(台北市信義區信義路五段7號86樓)</p>
+
+                      </article>
+
+                  </div>
+
+                  <div class="col-xs-12 col-md-7">
+
+                      <!-- Gallery slider -->
+                      <div class="b-gallery">
+                          <div class="b-slider" data-arrows="false" data-control="true" data-auto="true" data-interval="16">
+                              <div class="b-slider_inner">
+
+                                  <div class="b-gallery_item">
+
+                                      <div class="b-gallery_item_overlay">
+
+                                          <div class="b-gallery_item_overlay_inner">
+                                              <div class="b-gallery_item_overlay_inner_cell i-icon i-ion-ios-camera-outline">
+												  <!--
+                                                  <h3>Lightbox view</h3>
+                                                  <p>Subheading or short description<br />of this photo can be here</p>
+												-->
+                                              </div>
+                                          </div>
+
+                                          <div class="e-frame e-frame__lg e-frame__top"></div>
+                                          <div class="e-frame e-frame__lg e-frame__bottom"></div>
+
+                                      </div>
+
+                                      <img class="b-gallery_item_pic" src="assets/img/price.png" alt="優惠價" width="530" height="360" />
+                                      <!--<a href="http://placehold.it/960x640.jpg/17161c/999999" class="b-gallery_item_link js-popup" data-group="gallery"></a>--> 
+
+                                  </div>
+									<!--
+                                  <div class="b-gallery_item">
+
+                                      <div class="b-gallery_item_overlay">
+
+                                          <div class="b-gallery_item_overlay_inner">
+                                              <div class="b-gallery_item_overlay_inner_cell i-icon i-ion-ios-film-outline">
+
+                                                  <h3>Video in pop-up</h3>
+                                                  <p>Subheading or short description<br />of this photo can be here</p>
+
+                                              </div>
+                                          </div>
+
+                                          <div class="e-frame e-frame__lg e-frame__top"></div>
+                                          <div class="e-frame e-frame__lg e-frame__bottom"></div>
+
+                                      </div>
+
+                                      <img class="b-gallery_item_pic" src="http://placehold.it/530x360.jpg/17161c/999999" alt="Video" width="530" height="360" />
+                                      <a href="https://player.vimeo.com/video/70301553?color=2ba9ad" class="b-gallery_item_link js-popup-video" data-group="gallery"></a>
+
+                                  </div>
+
+                              </div>
+                              -->
+                          </div>
+                      </div>
+                      <!-- Gallery slider end -->
+
+                  </div>
+
+              </div>
+              <!-- First block end -->
+
+              <!-- Second block -->
+              <div class="b-overview_section row">
+
+                  <div class="col-xs-12 col-md-7 hidden-xs hidden-sm">
+
+                      <figure class="b-overview_figure" id="overview-second-frame" data-bottom-top="transform: translate3d(-20px, 80px, 0)" data-top-bottom="transform: translate3d(10px, 10px, 0)">
+
+                          <p><a href="https://www.cwbook.com.tw/subscription/SubscriptionAction.shtml?prodId=0000017331" target="_blank">立即購票</a></p>
+                          <svg width="100%" height="100%">
+                              <rect x="0" y="0" width="100%" height="100%" data-bottom-top="stroke-dashoffset: !1300" data-bottom-bottom="stroke-dashoffset: !0"></rect>
+                          </svg>
+
+                      </figure>
+                      <figure class="b-overview_figure" id="overview-second-frame" data-bottom-top="transform: translate3d(-20px, 80px, 0)" data-top-bottom="transform: translate3d(10px, 10px, 0)">
+
+                          <p><a href="#faq">常見Q&A </a></p>
+
+                          <svg width="100%" height="100%">
+                              <rect x="0" y="0" width="100%" height="100%" data-bottom-top="stroke-dashoffset: !1300" data-bottom-bottom="stroke-dashoffset: !0"></rect>
+                          </svg>
+
+                      </figure>
+
+                  </div>
+
+                  <div class="col-xs-12 col-md-5">
+
+                      <article class="b-overview_article">
+
+                          <header class="b-overview_header">
+
+                              <div class="b-overview_header_cell">
+
+                                  <div class="b-overview_header_icon i-icon i-ion-ios-lightbulb">
+                                      <div class="e-frame e-frame__sm e-frame__top"></div>
+                                      <div class="e-frame e-frame__sm e-frame__bottom"></div>
+                                  </div>
+
+                              </div>
+
+                              <div class="b-overview_header_cell">
+
+                                  <h3>購票權益，包含：</h3>
+
+                              </div>
+
+                          </header>
+
+                          <p>
+                          <strong>1. 2016 天下SHE時代論壇II入場券乙張</strong><br>
+                          <strong>2. 精緻晚餐乙客</strong><br>
+                          <strong>3. 《天下雜誌》10期</strong><br>
+                          <strong>4. 《誠食款款行》乙本</strong><br>
+                          <br>預購及客服專線02-2662-0332#9 <br>(週一～週五09:00~17:30)
+</p>
+
+                      </article>
+
+                  </div>
+
+              </div>
+              <!-- Second block end -->
+
+              <!-- Third block -->
+              <div class="b-overview_section row">
+
+                  <div class="col-xs-12 col-md-6 col-lg-6">
+
+                      <!-- Gallery slider -->
+                      <div class="b-gallery">
+                          <div class="b-slider" data-arrows="false" data-control="true" data-auto="true" data-interval="8">
+                              <div class="b-slider_inner">
+
+                                  <div class="b-gallery_item">
+
+                                      <div class="b-gallery_item_overlay">
+
+                                          <div class="b-gallery_item_overlay_inner">
+                                              <div class="b-gallery_item_overlay_inner_cell i-icon i-ion-ios-camera-outline">
+
+                                                  <h3>Lightbox view</h3>
+                                                  <p>Subheading or short description<br />of this photo can be here</p>
+
+                                              </div>
+                                          </div>
+
+                                          <div class="e-frame e-frame__lg e-frame__top"></div>
+                                          <div class="e-frame e-frame__lg e-frame__bottom"></div>
+
+                                      </div>
+
+                                      <img class="b-gallery_item_pic" src="assets/img/01.jpg" alt="Photo 4" width="530" height="360" />
+                                      <a href="https://goo.gl/maps/S4a6ojWAcLC2" class="b-gallery_item_link " target="_blank"></a>
+
+                                  </div>
+								
+                                  
+
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Gallery slider end -->
+
+                  </div>
+
+                  <div class="col-xs-12 col-md-6 col-lg-6">
+
+                      <article class="b-overview_article">
+
+                          <header class="b-overview_header">
+
+                              <div class="b-overview_header_cell">
+
+                                  <div class="b-overview_header_icon i-icon i-ion-ribbon-b">
+                                      <div class="e-frame e-frame__sm e-frame__top"></div>
+                                      <div class="e-frame e-frame__sm e-frame__bottom"></div>
+                                  </div>
+
+                              </div>
+
+                              <div class="b-overview_header_cell">
+
+                                  <h3>交通資訊</h3>
+
+                              </div>
+
+                          </header>
+
+                          <p>
+                          <strong>- 捷運 -</strong><br>信義線「台北101站」4號出口<br>
+板南線「市政府站」2號出口步行約10分鐘<br><br>
+                          
+                          <strong>- 公車 -</strong><br>搭乘至市府站、世貿站、信義行政中心、
+君悅飯店路線之公車，均可到達
+台北101停車站 (下車)
+</p>
+
+                      </article>
+
+                  </div>
+
+              </div>
+              <!-- Third block end -->
+
+              
+
+          </div>
+      </section>
+      <!-- Overview section end -->
+
+       <!-- FAQ section -->
+      <section class="b-faq b-section" id="faq">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>常見Q&A</h2>
+                  
+              </header>
+
+
+              <div class="row">
+                  <div class="col-xs-12 col-lg-8">
+
+                      <!-- Device -->
+                      <div class="b-faq_device">
+
+                          <div class="b-faq_device_screen">
+
+                              <div class="b-faq_slider">
+                                  <div class="b-slider" data-arrows="false" data-control="true" data-auto="false" data-interval="8">
+                                      <div class="b-slider_inner">
+
+                                          <div class="b-faq_slider_item">
+
+                                              <!-- Question -->
+                                              <div class="b-faq_question">
+
+                                                  <div class="b-faq_question_wrapper">
+                                                      <div class="b-faq_question_wrapper_inner">
+
+                                                          <article class="b-wysiwyg">
+
+                                                              <h3>Q.我已訂票成功，甚麼時候可以收到入場券與贈品?</h3>
+                                                              <p>A.天下雜誌未來會於出刊後寄發（若您為續訂戶，則會直接接續您原有期數），本次論壇入場券採紙本票券形式，預計於活動一周前寄送到您指定地址，活動當天，請攜帶票券，憑票券不劃位自由入場。</p>
+
+                                                          </article>
+
+                                                      </div>
+                                                  </div>
+
+                                              </div>
+                                              <!-- Question end -->
+
+                                          </div>
+
+                                          <div class="b-faq_slider_item">
+
+                                              <!-- Question -->
+                                              <div class="b-faq_question">
+
+                                                  <div class="b-faq_question_wrapper">
+                                                      <div class="b-faq_question_wrapper_inner">
+
+                                                          <article class="b-wysiwyg">
+
+                                                              <h3>Q.退票規範?</h3>
+                                                              <p>I.活動舉辦一個月前退票：需扣除原購買價之20%作為行政處理費<br>II.活動舉辦兩週前退票：需扣除原購買價之30%作為行政處理費<br>III.活動舉辦七天前退票：恕無法退款，但可轉讓他人使用。<br>若採用信用卡付款，恕無法現金退款，將退回原付款之信用卡帳戶內。</p>
+
+                                                          </article>
+
+                                                      </div>
+                                                  </div>
+
+                                              </div>
+                                              <!-- Question end -->
+
+                                          </div>
+
+                                          
+
+                                          
+
+                                      </div>
+                                  </div>
+                              </div>
+
+                              <div class="e-frame e-frame__md e-frame__top"></div>
+                              <div class="e-frame e-frame__md e-frame__bottom"></div>
+
+                          </div>
+
+                          <div class="b-faq_device_footer">
+
+                              <div class="b-faq_device_home"></div>
+
+                          </div>
+
+                          <div class="b-faq_device_switcher"></div>
+                          <div class="b-faq_device_volume_up"></div>
+                          <div class="b-faq_device_volume_down"></div>
+
+                          <div class="b-faq_device_head">
+
+                              <div class="b-faq_device_speaker"></div>
+                              <div class="b-faq_device_cam"></div>
+                              <div class="b-faq_device_power"></div>
+
+                          </div>
+
+                      </div>
+                      <!-- Device end -->
+
+                  </div>
+
+                  
+
+              </div>
+
+
+          </div>
+      </section>
+      <!-- FAQ section end -->     
+
+      <!-- Partners and sponsors section -->
+      <div style="display: none;"><div class="b-partners b-section b-section__solid" id="partners">
+          <div class="b-section_container container">
+
+              <header class="b-section_header b-section_header__stroked">
+                  <h2>菁英夥伴</h2>
+                  <p>主辦單位：天下雜誌<br>共同推動夥伴：台新銀行<br>策略夥伴：HEARTS ON FIRE<br>
+                  POWERED BY：台灣賓士 </p>
+              </header>
+
+              <div class="b-partners_logotypes">
+
+                  <div class="row">
+                      <div class="col-xs-12 col-md-8 col-lg-10 col-md-offset-2 col-lg-offset-1">
+
+                          <div class="b-carousel" data-auto="true" data-interval="3" data-xs="1" data-sm="2" data-md="2" data-lg="3">
+
+                              <div class="b-carousel_item">
+
+                                 <div style="display: none;"> <div class="b-partners_logotypes_item">
+                                      <a href="#" class="b-partners_logotypes_item_inner" data-target="_blank">
+                                          <img src="assets/img/sponsors/01.png" alt="Audio Jungle" />
+                                      </a>
+                                  </div>
+
+                              </div>
+
+                             <div style="display: none;">  <div class="b-carousel_item">
+
+                                  <div class="b-partners_logotypes_item">
+                                      <a href="#" class="b-partners_logotypes_item_inner" data-target="_blank">
+                                          <img src="assets/img/sponsors/02.png" alt="Code Canyon" />
+                                      </a>
+                                 </div> </div>
+
+                              </div>
+
+                              <div style="display: none;"> <div class="b-carousel_item">
+
+                                  <div class="b-partners_logotypes_item">
+                                      <a href="#" class="b-partners_logotypes_item_inner" data-target="_blank">
+                                          <img src="assets/img/sponsors/03.png" alt="Video Hive" />
+                                      </a>
+                                 </div> </div></div>
+
+                              </div>
+
+                              <!--<div class="b-carousel_item">
+
+                                  <div class="b-partners_logotypes_item">
+                                      <a href="#" class="b-partners_logotypes_item_inner" data-target="_blank">
+                                          <img src="http://placehold.it/200x48.jpg/17161c/999999" alt="Theme Forest" />
+                                      </a>
+                                  </div>
+
+                              </div>-->
+
+                          </div>
+
+                      </div>
+                  </div>
+
+              </div>
+
+          </div>
+      </div></div>
+      <!-- Partners and sponsors section end -->
+      
+      <!-- Sign Up section -->
+      <section class="b-signUp b-section b-section__background" id="signUp">
+          <div class="b-section__background_overlay">
+
+              <div class="b-section_container container">
+
+                  <header class="b-section_header b-section_header__stroked">
+                  	<h2>注意事項</h2>
+                  </header>
+                  <div class="b-precautions">
+                      <p>諮詢專線：周一至周五09:30-17:30<br>撥打專線 02-2662-0332#9<br><br></p>
+                      <p class="form_desc">特別聲明：<br>我已詳細閱讀並同意以下條款：天下雜誌集團（天下雜誌股份有限公司、天下生活出版股份有限公司、親子天下股份有限公司、財團法人天下雜誌教育基金會、天宇股份有限公司，以下簡稱本集團）及其委外服務廠商，基於客戶管理、統計及調查分析、會員管理、行銷及其他合於營業登記項目或章程所定業務需要之特定目的，在此向您蒐集以下個人資料，作為本集團營運期間於台灣地區寄送出版物及各項優惠訊息與調查分析使用。您可向本集團請求查閱、提供複本、更正或補充個人資訊，及請求刪除或停止處理利用，請您連繫天下雜誌群客戶服務中心(02)2662-0332 或email: bill@cw.com.tw。若您填寫資料不完整時，可能會影響您收受出版物或優惠訊息之權利</p>
+                  </div>
+              </div>
+          </div>
+      </section>
+      <!-- Sign Up end -->
+
+	<div class="footer">
+    <p>All Rights Reserved. (c) 2016天下雜誌</p>
+    </div>
+
+      <!-- MODERNIZR -->
+      <script type="text/javascript" src="assets/plain/build/modernizr.min.js"></script>
+
+      <!-- JQUERY and PLUG-INs -->
+      <script type="text/javascript" src="assets/plain/build/plugins.min.js"></script>
+
+      <!-- CORE -->
+      <script type="text/javascript" src="assets/plain/build/template.min.js"></script>
+
+      <!-- CUSTOM JAVASCRIPT :: UNCOMMENT IT ONLY WHEN YOU NEED TO CREATE CUSTOM SCRIPT -->
+      <!--script type="text/javascript" src="assets/plain/js/custom.js"></script-->
+  <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '208923989456777');
+      fbq('track', "PageView");
+
+      $( '.ticket' ).click(function() {
+          fbq('track', 'CompleteRegistration'); 
+        });
+    </script>
+    
+    <script>
+		$("#buy_ticket").click(function(){
+			//alert();
+			(scupioconv = window.scupioconv || []).push({bwp: 780, bwpid: 'action'});
+			window.open("http://www.cwbook.com.tw/subscription/SubscriptionAction.shtml?prodId=0000016640&utm_source=CW-Ticket&utm_medium=Banner-1&utm_campaign=CW-2016she");
+		});
+	</script>
+
+    <noscript>
+      <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=208923989456777&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+  
+ <!--天下alexa code start--> 
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"MUvYh1aon800iC", domain:"cw.com.tw",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = 
+document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript>
+<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=MUvYh1aon800iC" style="display:none" height="1" width="1" alt="" />
+</noscript>
+<!--天下alexa code end--> 
+<!--天下Comscode code start--> 
+<script>
+  var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "12333885" });
+  (function() {
+   var s = document.createElement("script"), 
+   el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();
+ </script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=12333885&cv=2.0&cj=1" />
+</noscript>
+<!--天下Comscode code end--> 
+  
+  
+  
+  
+  
+  
+  </body>
+</html>
